@@ -1,0 +1,32 @@
+
+
+السلام عليكم ورحمة الله وبركاته 
+
+عشان نحمل ros
+
+في البداية حتحملون بيئة افتراضيه وتحملون عليها اللينكس 
+
+من ثم تبدأ تحملون الروز عن طريق سطر الأوامر 
+
+أنا حملت نسخة ubuntu18.4
+ 
+عشان كذا حملت روز نسخة medical
+
+من ذا الرابط 
+
+http://wiki.ros.org/melodic/Installation/Ubuntu
+
+وتحتمشون خطوه خطوه على الأوامر الموجود زي ماوضحت في الصور =)
+
+إن شاء الله يتحمل معاكم مزبوط =)
+
+----
+
+to install ros 
+first you must download virtualbox to instal linux
+and then write in a black window ,all the command
+ that shown in the photos
+and in the website , in this link 
+
+http://wiki.ros.org/melodic/Installation/Ubuntu
+
